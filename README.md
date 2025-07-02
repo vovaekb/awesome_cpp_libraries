@@ -30,7 +30,15 @@ Simple library for implementing HTTP apps and serving static files for C99.
 
 [github](https://github.com/RaphiaRa/tiny_http)
 
-[github]()
+
+**cpr**
+C++ Requests is a simple wrapper around libcurl inspired by the excellent Python Requests project.
+
+[docs](https://docs.libcpr.org/)
+
+[github](https://github.com/libcpr/cpr)
+
+
 
 ## Packets of libraries
 
