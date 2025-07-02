@@ -3,6 +3,12 @@
 ## Security
 
 
+## Work with text 
+**nlohmann json**
+
+JSON for modern C++.
+[github](https://github.com/nlohmann/json)
+
 ## Useful tools
 
 **Boost.Program_options**
