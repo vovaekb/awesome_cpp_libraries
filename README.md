@@ -5,6 +5,12 @@
 
 ## Useful tools
 
+**Boost.Program_options**
+
+Part of Boost C++ libraries, simple module for parsing command line arguments. 
+
+[docs](https://www.boost.org/doc/libs/1_72_0/doc/html/program_options.html)
+
 
 ## Mathematics, numeric operations
 
