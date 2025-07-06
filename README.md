@@ -21,6 +21,7 @@ Part of Boost C++ libraries, simple module for parsing command line arguments.
 ## Mathematics, numeric operations
 
 **rnd.h**
+
 Single-file library fir random number generation implementing algorithms  PCG, WELL, GameRand and XorShift.
 
 [github](https://github.com/mattiasgustavsson/libs/blob/main/rnd.h)
@@ -44,6 +45,7 @@ Simple library for implementing HTTP apps and serving static files for C99.
 
 
 **cpr**
+
 C++ Requests is a simple wrapper around libcurl inspired by the excellent Python Requests project.
 
 [docs](https://docs.libcpr.org/)
@@ -60,3 +62,11 @@ Set of C++ platform abstraction libraries for macOS, Windows and Linux.
 
 [github](https://github.com/pagghiu/SaneCppLibraries)
 
+
+## Misc
+
+**ggwave**
+
+Tiny data-over-sound library. This library allows you to communicate small amounts of data between air-gapped devices using sound.
+
+[github](https://github.com/ggerganov/ggwave)
