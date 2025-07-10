@@ -9,6 +9,21 @@
 JSON for modern C++.
 [github](https://github.com/nlohmann/json)
 
+
+**ada**
+
+fast and spec-compliant URL parser written in C++
+
+[github](https://github.com/ada-url/ada)
+
+## Algorithms
+
+**AlgoPlus**
+
+Lbrary that includes ready-to-use complex data structures and algorithms for various topics, including Machine Learning and Image Processing.
+
+[github](https://github.com/spirosmaggioros/AlgoPlus)
+
 ## Useful tools
 
 **Boost.Program_options**
@@ -35,6 +50,13 @@ A minimal MPI Implementation loosely based on OpenMPI.
 
 [github](https://github.com/Quentin-Anthony/nanoMPI)
 
+## Networking
+
+**PcapPlusPlus**
+
+ multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use.
+
+[github](https://github.com/seladb/PcapPlusPlus)
 
 ## Web development
 **tiny_http**
@@ -62,6 +84,11 @@ Set of C++ platform abstraction libraries for macOS, Windows and Linux.
 
 [github](https://github.com/pagghiu/SaneCppLibraries)
 
+**PLF**
+
+Collection of high-performance C++ containers, perspectives and thoughts.
+
+[library page](https://plflib.org/)
 
 ## Misc
 
