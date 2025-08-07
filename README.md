@@ -1,9 +1,9 @@
 # Awesome C++ libraries
 
-## Security
+## 🔐 Security
 
 
-## Work with text 
+## 📖 Work with text 
 **nlohmann json**
 
 JSON for modern C++.
@@ -16,7 +16,7 @@ fast and spec-compliant URL parser written in C++
 
 [github](https://github.com/ada-url/ada)
 
-## Algorithms
+## 🧩 Algorithms
 
 **AlgoPlus**
 
@@ -24,7 +24,16 @@ Lbrary that includes ready-to-use complex data structures and algorithms for var
 
 [github](https://github.com/spirosmaggioros/AlgoPlus)
 
-## Useful tools
+## Work with graphics
+
+**LunaSVG**
+
+SVG rendering library in C++, designed to be lightweight and portable, offering efficient rendering and manipulation of Scalable Vector Graphics (SVG) files
+
+[github](https://github.com/sammycage/lunasvg)
+
+
+## 🛠️ Useful tools
 
 **Boost.Program_options**
 
@@ -33,7 +42,7 @@ Part of Boost C++ libraries, simple module for parsing command line arguments.
 [docs](https://www.boost.org/doc/libs/1_72_0/doc/html/program_options.html)
 
 
-## Mathematics, numeric operations
+## 🧮  Mathematics, numeric operations
 
 **rnd.h**
 
@@ -42,7 +51,7 @@ Single-file library fir random number generation implementing algorithms  PCG, W
 [github](https://github.com/mattiasgustavsson/libs/blob/main/rnd.h)
 
 
-## Multithreading, parallel, async
+## 🧵 Multithreading, parallel, async
 
 **nanoMPI**
 
@@ -50,7 +59,7 @@ A minimal MPI Implementation loosely based on OpenMPI.
 
 [github](https://github.com/Quentin-Anthony/nanoMPI)
 
-## Networking
+## 🖧 Networking
 
 **PcapPlusPlus**
 
@@ -58,7 +67,7 @@ A minimal MPI Implementation loosely based on OpenMPI.
 
 [github](https://github.com/seladb/PcapPlusPlus)
 
-## Web development
+## 🌐 Web development
 **tiny_http**
 
 Simple library for implementing HTTP apps and serving static files for C99.
@@ -74,9 +83,15 @@ C++ Requests is a simple wrapper around libcurl inspired by the excellent Python
 
 [github](https://github.com/libcpr/cpr)
 
+## Calculations on GPU
 
+**CUTLASS 4.1**
 
-## Packets of libraries
+Library from NVIDIA. Collection of abstractions for implementing high-performance matrix-matrix multiplication (GEMM) and related computations at all levels and scales within CUDA.
+
+[github](https://github.com/NVIDIA/cutlass)
+
+## 🧰 Packets of libraries
 
 **Sane C++ Libraries**
 
