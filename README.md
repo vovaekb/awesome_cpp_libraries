@@ -44,6 +44,12 @@ Part of Boost C++ libraries, simple module for parsing command line arguments.
 
 ## 🧮  Mathematics, numeric operations
 
+**Sparselizard**
+
+High-performance, multiphysics, hp-adaptive, open source C++ finite element library running on Linux, Mac and Windows
+
+[github](https://github.com/halbux/sparselizard)
+
 **rnd.h**
 
 Single-file library fir random number generation implementing algorithms  PCG, WELL, GameRand and XorShift.
@@ -59,7 +65,7 @@ A minimal MPI Implementation loosely based on OpenMPI.
 
 [github](https://github.com/Quentin-Anthony/nanoMPI)
 
-## 🖧 Networking
+## Networking
 
 **PcapPlusPlus**
 
@@ -74,6 +80,11 @@ Simple library for implementing HTTP apps and serving static files for C99.
 
 [github](https://github.com/RaphiaRa/tiny_http)
 
+**cpprestsdk**
+
+
+
+[github](https://github.com/microsoft/cpprestsdk)
 
 **cpr**
 
