@@ -32,6 +32,14 @@ SVG rendering library in C++, designed to be lightweight and portable, offering 
 
 [github](https://github.com/sammycage/lunasvg)
 
+## Image and video processing 
+
+**RapidPixel SDK**
+
+Set of cross-platform C++ libraries developed by Constant Robotics for real-time video processing applications.
+Note: SDK can be downloaded via request on website
+
+[website](https://www.constantrobotics.com/rapidpixel)
 
 ## 🛠️ Useful tools
 
@@ -81,7 +89,6 @@ Simple library for implementing HTTP apps and serving static files for C99.
 [github](https://github.com/RaphiaRa/tiny_http)
 
 **cpprestsdk**
-
 
 
 [github](https://github.com/microsoft/cpprestsdk)
