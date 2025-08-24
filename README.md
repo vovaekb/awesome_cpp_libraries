@@ -125,6 +125,12 @@ Collection of high-performance C++ containers, perspectives and thoughts.
 
 ## Misc
 
+**Magic Enum C++**
+
+Header-only C++17 library provides static reflection for enums.
+
+[github](https://github.com/Neargye/magic_enum)
+
 **ggwave**
 
 Tiny data-over-sound library. This library allows you to communicate small amounts of data between air-gapped devices using sound.
