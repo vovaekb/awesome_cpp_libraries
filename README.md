@@ -34,6 +34,12 @@ SVG rendering library in C++, designed to be lightweight and portable, offering 
 
 ## Image and video processing 
 
+**FFmpeg**
+Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+
+[website](https://ffmpeg.org/)
+[github](https://github.com/FFmpeg/FFmpeg)
+
 **RapidPixel SDK**
 
 Set of cross-platform C++ libraries developed by Constant Robotics for real-time video processing applications.
