@@ -32,7 +32,7 @@ SVG rendering library in C++, designed to be lightweight and portable, offering 
 
 [github](https://github.com/sammycage/lunasvg)
 
-## Image and video processing 
+## 🖼️ Image and video processing 
 
 **FFmpeg**
 Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
@@ -79,7 +79,7 @@ A minimal MPI Implementation loosely based on OpenMPI.
 
 [github](https://github.com/Quentin-Anthony/nanoMPI)
 
-## Networking
+## 📡 Networking
 
 **PcapPlusPlus**
 
@@ -114,6 +114,15 @@ C++ Requests is a simple wrapper around libcurl inspired by the excellent Python
 Library from NVIDIA. Collection of abstractions for implementing high-performance matrix-matrix multiplication (GEMM) and related computations at all levels and scales within CUDA.
 
 [github](https://github.com/NVIDIA/cutlass)
+
+
+## 🗃️ Databases
+
+**boost_sqlite**
+
+This library provides a simple C++ sqlite wrapper.
+
+[github](https://github.com/klemens-morgenstern/sqlite)
 
 ## 🧰 Packets of libraries
 
