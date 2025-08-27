@@ -24,7 +24,7 @@ Lbrary that includes ready-to-use complex data structures and algorithms for var
 
 [github](https://github.com/spirosmaggioros/AlgoPlus)
 
-## Work with graphics
+## 🎨 Work with graphics
 
 **LunaSVG**
 
@@ -107,7 +107,7 @@ C++ Requests is a simple wrapper around libcurl inspired by the excellent Python
 
 [github](https://github.com/libcpr/cpr)
 
-## Calculations on GPU
+## 🔢 Calculations on GPU
 
 **CUTLASS 4.1**
 
