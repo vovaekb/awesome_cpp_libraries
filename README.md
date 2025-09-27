@@ -126,6 +126,13 @@ This library provides a simple C++ sqlite wrapper.
 
 ## 🧰 Packets of libraries
 
+**Abseil**
+
+Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library.
+
+[github](https://github.com/abseil/abseil-cpp)
+
+
 **Sane C++ Libraries**
 
 Set of C++ platform abstraction libraries for macOS, Windows and Linux.
