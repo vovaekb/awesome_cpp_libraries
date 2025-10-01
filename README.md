@@ -124,6 +124,14 @@ This library provides a simple C++ sqlite wrapper.
 
 [github](https://github.com/klemens-morgenstern/sqlite)
 
+## Testing 
+
+**FuzzTest**
+
+C++ testing framework for writing and executing fuzz tests, which are property-based tests executed using coverage-guided fuzzing under the hood.
+
+[github](https://github.com/google/fuzztest)
+
 ## 🧰 Packets of libraries
 
 **Abseil**
