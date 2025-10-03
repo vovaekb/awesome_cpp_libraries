@@ -132,6 +132,14 @@ C++ testing framework for writing and executing fuzz tests, which are property-b
 
 [github](https://github.com/google/fuzztest)
 
+## JSON
+
+**sj.h**
+
+A tiny little JSON parsing library
+
+[github](https://github.com/rxi/sj.h)
+
 ## 🧰 Packets of libraries
 
 **Abseil**
