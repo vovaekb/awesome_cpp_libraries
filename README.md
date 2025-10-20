@@ -56,6 +56,12 @@ Part of Boost C++ libraries, simple module for parsing command line arguments.
 [docs](https://www.boost.org/doc/libs/1_72_0/doc/html/program_options.html)
 
 
+**cppenv**
+header-only C++ library that makes it easy to manage .env files in your projects.
+
+[github](https://github.com/Tina-1300/cppenv)
+
+
 **Input parser**
 
 Command line arguments parser.
