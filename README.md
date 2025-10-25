@@ -108,7 +108,6 @@ Simple library for implementing HTTP apps and serving static files for C99.
 
 **cpprestsdk**
 
-
 [github](https://github.com/microsoft/cpprestsdk)
 
 **cpr**
@@ -118,6 +117,14 @@ C++ Requests is a simple wrapper around libcurl inspired by the excellent Python
 [docs](https://docs.libcpr.org/)
 
 [github](https://github.com/libcpr/cpr)
+
+## 🤖 Robotics, SLAM
+
+**libRSF**
+
+C++ library that provides the basic components for robust sensor fusion. It can be used to describe an estimation problem as a factor graph and solves it with least squares, powered by the Ceres Solver.
+
+[github](https://github.com/TUC-ProAut/libRSF)
 
 ## 🔢 Calculations on GPU
 
@@ -130,13 +137,19 @@ Library from NVIDIA. Collection of abstractions for implementing high-performanc
 
 ## 🗃️ Databases
 
+**sqlgen**
+
+[github](https://github.com/getml/sqlgen)
+
+Modern, type-safe ORM and SQL query generator for C++20, inspired by Python's SQLAlchemy/SQLModel and Rust's Diesel.
+
 **boost_sqlite**
 
 This library provides a simple C++ sqlite wrapper.
 
 [github](https://github.com/klemens-morgenstern/sqlite)
 
-## Testing 
+## 🔬 Testing 
 
 **FuzzTest**
 
