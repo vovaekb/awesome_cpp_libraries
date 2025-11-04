@@ -135,6 +135,15 @@ Library from NVIDIA. Collection of abstractions for implementing high-performanc
 [github](https://github.com/NVIDIA/cutlass)
 
 
+## 🗜️ Data compression
+
+**openzl**
+
+OpenZL delivers high compression ratios while preserving high speed, a level of performance that is out of reach for generic compressors.
+
+[github](https://github.com/facebook/openzl)
+[blog post about library](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
+
 ## 🗃️ Databases
 
 **sqlgen**
