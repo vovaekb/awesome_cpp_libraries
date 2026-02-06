@@ -47,6 +47,14 @@ Note: SDK can be downloaded via request on website
 
 [website](https://www.constantrobotics.com/rapidpixel)
 
+## trend Plots, graphs
+
+**Pʟᴏᴛʟʏ++**
+
+header-only C++ graphing library for creating interactive plots and charts, with rendering powered by Plotly.js.
+
+[github](https://github.com/jimmyorourke/plotlypp)
+
 ## 🛠️ Useful tools
 
 **Boost.Program_options**
